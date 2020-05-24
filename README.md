@@ -9,7 +9,7 @@ Nous ne partons pas de zéro car nous avons eu comme base de départ un dataset 
 Les principales étapes vont être de s’approprier la donnée, la nettoyer, extraire et ajouter des features importantes pour la précision du modèle et enfin mettre en place le modèle le plus précis possible.
 
 #### ***Fonctionnement du projet***
-Dans le dossier, vous trouverez 4 notebooks. Pour une meilleure lisibilité nous avons séparé le notebook final en 3 fichiers.
+Dans le dossier, vous trouverez 3 notebooks. Pour une meilleure lisibilité nous avons séparé le notebook final en 3 fichiers.
 
 **Notebooks :**
 - 1_explo_cleaning.ipynb : contient la partie exploration de la donnée, nettoyage de la donnée et la partie features engineering.
