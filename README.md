@@ -15,4 +15,3 @@ Dans le dossier, vous trouverez 3 notebooks. Pour une meilleure lisibilité nous
 - 1_explo_cleaning.ipynb : contient la partie exploration de la donnée, nettoyage de la donnée et la partie features engineering.
 - 2_scraping_prix.ipynb : contient la partie scraping d’un site avec les données sur le prix neuf des voitures.
 - 3_ml_prediction.ipynb : contient une petite partie de features engineering, la partie sur la sélection des features, la création du modèle et son amélioration
-- 4_final.ipynb : contient les trois parties précédentes concaténées en un seul fichier
