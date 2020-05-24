@@ -9,15 +9,10 @@ Nous ne partons pas de zéro car nous avons eu comme base de départ un dataset 
 Les principales étapes vont être de s’approprier la donnée, la nettoyer, extraire et ajouter des features importantes pour la précision du modèle et enfin mettre en place le modèle le plus précis possible.
 
 #### ***Fonctionnement du projet***
-Dans le dossier, vous trouverez 4 notebook et 3 fichiers csv. Pour une meilleure lisibilité nous avons séparé le notebook final en 3 fichiers.
+Dans le dossier, vous trouverez 4 notebooks. Pour une meilleure lisibilité nous avons séparé le notebook final en 3 fichiers.
 
 **Notebooks :**
 - 1_explo_cleaning.ipynb : contient la partie exploration de la donnée, nettoyage de la donnée et la partie features engineering.
 - 2_scraping_prix.ipynb : contient la partie scraping d’un site avec les données sur le prix neuf des voitures.
 - 3_ml_prediction.ipynb : contient une petite partie de features engineering, la partie sur la sélection des features, la création du modèle et son amélioration
 - 4_final.ipynb : contient les trois parties précédentes concaténées en un seul fichier
-
-**Fichiers csv :**
-- Data_cars.csv : Fichier d’origine contenant une base de donnée de voitures d’occasion.
-- Cars_price.csv : Fichier contenant le résultat du scraping (une base de donnée des prix neufs des voitures).
-- Data_cars_final.csv : Fichier contenant la base de donnée final avec l’intégralité des features.
